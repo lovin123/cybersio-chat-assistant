@@ -7,7 +7,7 @@ async function bootstrap() {
 
   // Enable CORS
   app.enableCors({
-    origin: '*',
+    origin: 'https://cybersio-chat-assistant-9dtu.vercel.app',
     credentials: true,
   });
 

@@ -1,4 +1,3 @@
 window.config = {
-  apiUrl: 'http://localhost:3001',
+  apiUrl: "https://cybersio-chat-assistant.vercel.app",
 };
-
