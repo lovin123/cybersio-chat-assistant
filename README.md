@@ -131,14 +131,6 @@ npm install
 REACT_APP_API_URL=http://localhost:3001
 ```
 
-Or configure in `public/config.js`:
-
-```javascript
-window.config = {
-  apiUrl: "http://localhost:3001",
-};
-```
-
 4. Start the development server:
 
 ```bash

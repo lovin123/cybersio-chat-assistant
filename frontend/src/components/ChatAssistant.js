@@ -50,9 +50,6 @@ const ChatAssistant = () => {
   }, [messages]);
 
   const getApiUrl = () => {
-    if (window.config && window.config.apiUrl) {
-      return window.config.apiUrl;
-    }
     return process.env.REACT_APP_API_URL || "http://localhost:3001";
   };
 
