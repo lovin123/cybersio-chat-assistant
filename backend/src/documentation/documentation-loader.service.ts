@@ -1,8 +1,6 @@
 import { Injectable, Logger } from '@nestjs/common';
 import fs from 'fs-extra';
 import { join } from 'path';
-import * as matter from 'gray-matter';
-import { marked } from 'marked';
 
 interface DocumentationSection {
   id: string;
