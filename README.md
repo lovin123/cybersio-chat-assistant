@@ -254,8 +254,6 @@ See `backend/README.md` for a complete list of example queries and tips for best
 - **@xenova/transformers** - Vector embeddings for semantic search
 - **RAG System** - Retrieval-Augmented Generation with hybrid search
 - **Axios** - HTTP client
-- **marked** - Markdown parser
-- **gray-matter** - Front matter parser
 
 ### Frontend
 
