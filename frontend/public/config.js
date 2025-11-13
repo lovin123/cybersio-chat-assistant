@@ -1,3 +1,3 @@
 window.config = {
-  apiUrl: "https://cybersio-chat-assistant.vercel.app",
+  apiUrl: "https://thunderous-axolotl-a3f975.netlify.app",
 };
